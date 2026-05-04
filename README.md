@@ -40,6 +40,5 @@ targeting a 15-second execution window.
 
 - Website: [winpoly.xyz](https://winpoly.xyz)
 - Docs: [winpoly.xyz/docs](https://winpoly.xyz/docs)
-- X: [@winpoly](https://twitter.com/winpoly)
 
 © 2026 Winpoly
